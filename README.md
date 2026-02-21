@@ -6,7 +6,7 @@ Team Members
 Member 1: SHIVARANJINI R - ASIET
 
 Hosted Project Link
-[mention your project hosted link here]
+https://github.com/shivaranjini04/Tammy
 
 Project Description
 Tammy AI is a voice-based emotional safety companion designed for school environments. Students can express concerns naturally through conversation, and the system analyzes emotional urgency levels to assist counselors in identifying potential risks early.
@@ -52,7 +52,7 @@ frontend/index.html
 
 Project Documentation
 For Software:
-Screenshots (Add at least 3)
+Screenshots
 ![Screenshot1] <img width="1233" height="672" alt="image" src="https://github.com/user-attachments/assets/d5f2ce5b-e50d-4351-bacf-bb6b3743f63e" />
 Counselor Login page
 
@@ -76,15 +76,8 @@ Student speaks → Tammy listens → AI analyzes emotional urgency → Alert tri
 
 Project Demo
 Video
-[Add your demo video link here - YouTube, Google Drive, etc.]
+https://drive.google.com/drive/folders/1yjHtM7fuZs1n27U8nMpjTYMJAwy-61hQ
 
-
-Human Contributions:
-
-Architecture design and planning
-Custom business logic implementation
-Integration and testing
-UI/UX design decisions
 
 Team Contributions
 Shivaranjini R: Developed the entire project independently including backend, AI integration, frontend UI, and testing.
